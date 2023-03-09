@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-$ npm install 
+$ yarn install 
 ```
 
 ## Running the app
@@ -10,13 +10,13 @@ $ npm install
 Simply run the following commands 
 
 # build app
-$ npm run build
+$ yarn run build
 
 # run seeds
-$ node dist/seeder
+$ yarn run seed
 
 # run app
-$ npm run start
+$ yarn run start
 
 # .env already exists 
 ```
